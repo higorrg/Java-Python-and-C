@@ -8,28 +8,15 @@ PoC from the article: A Performance Comparison Between C, Java, and Python.
 
 ```shell
 cd Java
-```
-
-```shell
-javac MatrixMultiplication.java
-```
-
-```shell
-java MatrixMultiplication
+java MatrixMultiplication.java
 ```
 
 ## Build and run C
 
 ```shell
 cd ../c
-```
-
-```shell
 gcc -O2 MatrixMultiplication.c -o MatrixMultiplication
 gcc -O3 MatrixMultiplication.c -o MatrixMultiplication
-```
-
-```shell
 ./MatrixMultiplication
 ```
 
@@ -37,8 +24,5 @@ gcc -O3 MatrixMultiplication.c -o MatrixMultiplication
 
 ```shell
 cd ../python
-```
-
-```shell
 python MatrixMultiplication.py
 ```
