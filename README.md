@@ -4,6 +4,8 @@ PoC from the article: A Performance Comparison Between C, Java, and Python.
 
 [Link for the article](https://medium.com/swlh/a-performance-comparison-between-c-java-and-python-df3890545f6d)
 
+You can follow steps below or you can run from the jupyter notebook [README.ipynb](./README.ipynb)
+
 ## Build and run Java (OpenJ9 JDK 11)
 
 ```shell
